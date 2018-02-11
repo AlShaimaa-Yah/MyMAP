@@ -1,2 +1,0 @@
-# MyMAP
-MAP
