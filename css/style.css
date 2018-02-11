@@ -1,0 +1,53 @@
+html {
+  height: 100%
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0
+}
+
+#map-canvas {
+  height: 100%
+}
+
+
+
+#pointList {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+
+
+
+ul li {
+  display: block;
+  text-decoration: none;
+  color: #664400;
+  background-color: #ffeecc;
+  line-height: 40px;
+  border-bottom: solid 1px;
+  padding: 10px;
+
+}
+
+.selected, ul li:hover {
+  color: #FFFFFF;
+  background-color: #2C70ED;
+}
+
+
+
+input {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  font-family: 'Roboto', sans-serif;
+  display: block;
+  line-height: 30px;
+  font-size: 1.0em;
+  margin-left: 39px;
+  margin-bottom: -16px;
+  width: 86%;
+}
